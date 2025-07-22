@@ -18,7 +18,7 @@ I currently own a small collection of computers:
 ## What I Do!
 
 I currently work on small individual or group projects with friends in and out of school.  
-I know these languages:  
+## I know these languages:  
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,py,git)](https://skillicons.dev) 
-And I'm learning these:  
+## And I'm learning these:  
 [![My Future Skills](https://skillicons.dev/icons?i=cpp,js,swift)](https://skillicons.dev)
