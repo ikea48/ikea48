@@ -23,3 +23,16 @@ The dream is to get into a good college (Florida?) and get a degree in Cybersecu
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,py,git)](https://skillicons.dev) 
 ## And I'm learning these:  
 [![My Future Skills](https://skillicons.dev/icons?i=cpp,js,swift)](https://skillicons.dev)
+
+## Fun things!
+
+I'm a big gaming fan, particularly a fan of Nintendo!  
+I'm a Apple/Mac supporter however I do use Microsoft/Windows products.  
+Also a big sports fan!:
+- Jacksonville Jaguars (NFL)
+- Florida Panthers (NHL)
+- New York Yankees (MLB)
+- LA Lakers (NBA)
+- Liverpool FC (Premier League)
+- McLaren (Motorsports)
+
