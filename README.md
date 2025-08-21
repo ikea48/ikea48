@@ -22,7 +22,7 @@ The dream is to get into a good college (Florida?) and get a degree in Cybersecu
 ## I know these languages:  
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,py,git)](https://skillicons.dev) 
 ## And I'm learning these:  
-[![My Future Skills](https://skillicons.dev/icons?i=cpp,js,swift,sql)](https://skillicons.dev)
+[![My Future Skills](https://skillicons.dev/icons?i=cpp,js,swift,sqlite)](https://skillicons.dev)
 
 ## Fun things!
 
