@@ -14,9 +14,6 @@ I currently own a small collection of computers:
 - iBook G3 (2001)
 - A custom built Gaming PC
 - and tons of things I may have forgotten...
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="matthew-close-18b1b53b2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/matthew-close-18b1b53b2?trk=profile-badge">Matthew Close</a></div>
               
 ## What I Do!
 
