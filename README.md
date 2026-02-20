@@ -20,9 +20,9 @@ I currently own a small collection of computers:
 I currently work on small individual or group projects with friends in and out of school.  
 The dream is to get into a good college (Florida?) and get a degree in Cybersecurity!  
 ## I know these languages:  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,py,git)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,py,sqlite,git)](https://skillicons.dev) 
 ## And I'm learning these:  
-[![My Future Skills](https://skillicons.dev/icons?i=cpp,js,swift,sqlite)](https://skillicons.dev)
+[![My Future Skills](https://skillicons.dev/icons?i=cpp,js,swift)](https://skillicons.dev)
 
 ## Fun things!
 
