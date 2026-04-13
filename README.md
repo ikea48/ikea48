@@ -32,6 +32,6 @@ Also a big sports fan!:
 - Jacksonville Jaguars (NFL)
 - Florida Panthers (NHL)
 - New York Yankees (MLB)
-- LA Lakers (NBA)
+- Orlando Magic (NBA)
 - Liverpool FC (Premier League)
 - McLaren (Motorsports)
