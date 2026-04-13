@@ -18,7 +18,8 @@ I currently own a small collection of computers:
 ## What I Do!
 
 I currently work on small individual or group projects with friends in and out of school.  
-The dream is to get into a good college (Florida?) and get a degree in Cybersecurity!  
+The dream is to get into a good college (Florida?) and get a degree in Cybersecurity!
+I also run a podcast and host various local pickup sports games in the Greater Jacksonville area.
 ## I know these languages:  
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,py,sqlite,git)](https://skillicons.dev) 
 ## And I'm learning these:  
