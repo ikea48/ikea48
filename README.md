@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Matthew Close, I'm based out of Jacksonville, Florida (DDDDDUUUUUVVVAAAALLL).  
-Currently a Junior in High School and I'm trying to get into Software Developments and Cybersecurity!
+Currently a Senior in High School and I'm trying to get into Software Developments and Cybersecurity!
 
 ## Details
 
