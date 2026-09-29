@@ -32,6 +32,7 @@ I'm a big gaming fan, particularly a fan of Nintendo!
 I'm a Apple/Mac supporter however I do use Microsoft/Windows products.  
 Also a big sports fan!:
 - Jacksonville Jaguars (NFL)
+- Florida Gators (NCAA)
 - Florida Panthers (NHL)
 - New York Yankees (MLB)
 - Orlando Magic (NBA)
